@@ -296,7 +296,7 @@ File Size: {}
 Downloaded: {}
 ETA: {}
 
-©️ @AnyDLBot""".format(
+©️ @Brazzers_premium_pronhub_sexy""".format(
     url,
     humanbytes(total_length),
     humanbytes(downloaded),
